@@ -1,0 +1,8 @@
+## Interface: 70100
+## Title: StyleMeter_Heal
+## Author: Lolzen
+## Notes: Heal module for StyleMeter
+## Version: 0.0.1 Alpha
+## Dependencies: StyleMeter
+
+heal.lua
