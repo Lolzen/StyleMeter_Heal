@@ -8,3 +8,7 @@ StyleMeter.module.Heal = {
 		},
 	},
 }
+
+-- Create entries for the data
+StyleMeter.moduleDB["Heal"] = {}
+StyleMeter.DB.spells["Heal"] = {}
