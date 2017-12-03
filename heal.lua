@@ -17,7 +17,3 @@ StyleMeter.module.Heal = {
 		["isOffHand"] = "arg24",
 	},
 }
-
--- Create entries for the data
-StyleMeter.moduleDB["Heal"] = {}
-StyleMeter.DB.spells["Heal"] = {}
